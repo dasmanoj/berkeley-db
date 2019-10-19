@@ -1,5 +1,10 @@
 Berkeley DB 4.8.30: (April  9, 2010)
 
-This is version 4.8.30 of Berkeley DB from Oracle.  To view release and
-installation documentation, load the distribution file docs/index.html
-into your web browser.
+This is version 4.8.30 of Berkeley DB from Oracle with updated config.guess, config.sub files.
+
+Useful for compiling in newer linux based systems such as Chromebook
+
+config.guess  2019-09-10
+config.sub    2019-06-30
+
+To view release and installation documentation, load the distribution file docs/index.html into your web browser.
